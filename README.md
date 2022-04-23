@@ -1,2 +1,2 @@
 # Sample
-Practice
+Practice for git
